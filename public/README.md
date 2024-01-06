@@ -13,11 +13,8 @@
   <a href="mailto:obaidgases@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/obaid.gases">
-    <img src="https://img.shields.io/badge/Linktr-rgreen?style=for-the-badge" alt="Linktr" />
-  </a>
   <a href="https://maps.app.goo.gl/AwBdFxHf8Ngi2rUN7">
-    <img scr="https://img.shields.io/badge/Google%20Map-D14836?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Map" />
+    <img src="https://img.shields.io/badge/Google%20Map-D14836?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Map" />
   </a>
   <a href="https://linktr.ee/obaid.gases">
     <img src="https://img.shields.io/badge/Linktree-black?style=for-the-badge&logo=linktree&logoColor=rgreen" alt="Linktr" />
