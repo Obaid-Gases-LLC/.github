@@ -14,7 +14,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://maps.app.goo.gl/AwBdFxHf8Ngi2rUN7">
-    <img src="https://img.shields.io/badge/Google%20Map-D14836?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Map" />
+    <img src="https://img.shields.io/badge/Google%20Map-D14836?style=for-the-badge&logo=googlemaps&logoColor=#4285F4" alt="Google Map" />
   </a>
   <a href="https://linktr.ee/obaid.gases">
     <img src="https://img.shields.io/badge/Linktree-black?style=for-the-badge&logo=linktree&logoColor=rgreen" alt="Linktr" />
